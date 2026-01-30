@@ -1,13 +1,13 @@
 /* Add CSS Styling */
 .odd {
-    background-color: pink;
+    background-color: #FFC0CB;
     font-size: 20px;
-    font-family: Verdana, Dejavu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #first {
-    color: blue;
-    font-size: 36px; 
+    color: #0000FF;
+    font-size: 36px;
 }
 
 .another-class {
@@ -15,7 +15,7 @@
 }
 
 #second {
-    background-color: lightgreen;
-    font-size: 24px; 
+    background-color: #90EE90;
+    font-size: 24px;
     font-weight: bold;
 }   
